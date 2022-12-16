@@ -47,7 +47,7 @@ Change and update the content, structure, format, and navigation of From lads to
 ## Initial sketch:
 [Initial sketch](from-jads-to-dads-1.png)
 
-# fFeatures to be added:
+# Features to be added:
 ### For events page:
 - The events will be added to the website manually.
 - Zoom link will be added to the video conference events.
@@ -61,3 +61,7 @@ Change and update the content, structure, format, and navigation of From lads to
 - Blog page that will allow the user to leave comments.
 ### Newsletter:
 - Newsletter subscription form that will allow the user to subscribe to the newsletter.
+- Most likely Mailchimp or sendineblue will be used for the newsletter.
+
+### Links to other support groups:
+- Links to other support groups will be added to the website.
