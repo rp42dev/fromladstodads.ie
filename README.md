@@ -44,8 +44,11 @@ Change and update the content, structure, format, and navigation of From lads to
 - The main audience is All dads and moms as well.
 - As the website is in English, the main audience is English speaking people.
 - The main audience is Irish people living in Ireland.
+## Initial sketch:
+[Initial sketch](from-jads-to-dads-1.png)
 
-## For events page:
+# fFeatures to be added:
+### For events page:
 - The events will be added to the website manually.
 - Zoom link will be added to the video conference events.
     Zoom is a video conferencing service that allows users to meet online.
@@ -54,5 +57,7 @@ Change and update the content, structure, format, and navigation of From lads to
     Eventribe is an online event registration and ticketing platform.
     Free of chare for organizers free event ticketing.
 
-## Initial sketch:
-![Initial sketch](from-jads-to-dads-1.png)
+### Blog:
+- Blog page that will allow the user to leave comments.
+### Newsletter:
+- Newsletter subscription form that will allow the user to subscribe to the newsletter.
